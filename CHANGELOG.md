@@ -6,6 +6,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## Unreleased
 
+Wagtail 7.0 maintenance
+
+- Tox testing add Wagtail 7.0 and Django 5.2
+- Tox testing drop Django 5.0
+- Classifiers drop Django 5.0
+- Classifiers add Django 5.2
+
+Wagtail 6.4 Upgrade
+
 - Tox testing add python 3.13, drop 3.8
 - Tox testing add Wagtail 6.3 and 6.4 and Django 5.1
 - Tox testing drop Wagtail 6.0 & Django 3.2
