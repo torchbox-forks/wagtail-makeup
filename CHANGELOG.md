@@ -8,7 +8,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 Wagtail 7.0 maintenance
 
-- Tox testing add Wagtail 7.0 and Django 5.2
+- Tox testing add Wagtail 7.0, 7.1 and Django 5.2
 - Tox testing drop Django 5.0
 - Classifiers drop Django 5.0
 - Classifiers add Django 5.2
